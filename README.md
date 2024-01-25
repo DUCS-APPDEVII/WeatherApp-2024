@@ -35,7 +35,7 @@ The DUWeather App project is the Spring semester project for CSCI 357, Applicati
 
 ## UI Design
 
-- [UI Prototype Link](hhttps://www.figma.com/proto/m9G0nTEh3HP5znBk3o1D1f/MyWeatherApp-2024?type=design&node-id=12-247&t=9SG8pbDz7xD8s29y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=12%3A247&mode=design)
+- [UI Prototype Link](https://www.figma.com/proto/m9G0nTEh3HP5znBk3o1D1f/MyWeatherApp-2024?type=design&node-id=12-247&t=9SG8pbDz7xD8s29y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=12%3A247&mode=design)
 - [Screen Designs](https://www.figma.com/file/m9G0nTEh3HP5znBk3o1D1f/MyWeatherApp-2024?type=design&node-id=0%3A1&mode=design&t=wLdewmRevB7elkbR-1)
 
 ## Links to information on the react-native-navigator
